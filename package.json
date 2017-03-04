@@ -1,0 +1,19 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "datejs": "^1.0.0-rc3",
+    "moviedb": "^0.2.7",
+    "restify": "^4.2.0",
+    "words-to-num": "0.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
